@@ -9,6 +9,7 @@ Your goal is to create three React components. All of them are located in **/src
 - This component should present UI where the user can select a pre-defined donation amount, then click a "Donate" button.
 - Once one of the pre-defined amounts is clicked, it should look "selected".
 - Once the user clicks "Donate", the selected amount should appear as either a `console.log()` or `alert()`.
+- There's no need to do anything for "Other". It can return the word "other" instead of a pre-defined amount.
 - This UI should be responsive. There is not a design for what it should look like on smaller screens, so use your best judgement.
 - Displaying icons for google/apple are not required.
 
